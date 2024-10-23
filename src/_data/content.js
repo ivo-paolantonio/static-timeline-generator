@@ -1,4 +1,4 @@
-const header = 'Welcome to this wonderful example timeline.';
+const header = 'Ivo Paolantonio';
 const footer = 'A footer goes here.';
 const entries = [
   {
